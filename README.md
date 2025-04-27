@@ -8,3 +8,8 @@ This project is a machine learning-based recommendation system built on an e-com
 - ⚡ Hybrid Recommendation System
 
 The system also features an interactive Streamlit app for easy use and visualization.
+### 🔥 App Preview
+![Alt Text](images)
+![Trending Products](images/Trending_products.png)
+![Content Based](images/Content_base.png)
+![Hybrid Recommendations](images/hybrid_products.png)
