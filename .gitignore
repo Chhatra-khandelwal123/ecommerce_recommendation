@@ -1,0 +1,18 @@
+# Ignore Windows system folders
+AppData/
+Cookies/
+Documents/
+Local Settings/
+My Music/
+My Pictures/
+My Videos/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other temporary files
+*.log
